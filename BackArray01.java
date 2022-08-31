@@ -13,7 +13,7 @@ public class BackArray01 {
 		     for(int i=0; i<n; i++){ 
 		         num[i] = sc.nextInt();
 		         if(max<num[i]) {
-		             max = num[i];
+		             max = num[i];  //입력값 차례대로 max에 저장 후 다음 입력값과 비교
 		         }    
 		         if(min>num[i]) {
 		             min = num[i];

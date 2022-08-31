@@ -12,7 +12,7 @@ public class BackArray02 {
 			num[i] = sc.nextInt();
 			if(max < num[i]) {
 				max = num[i];
-				no = i+1;
+				no = i+1; // 0부터 시작하므로 순서는 +1
 			}
 		}
 		

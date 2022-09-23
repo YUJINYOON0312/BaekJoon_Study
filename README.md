@@ -1,1 +1,1 @@
-# BackJoon_Study
+# BaekJoon_Study

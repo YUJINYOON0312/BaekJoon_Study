@@ -23,8 +23,7 @@ public class BaekArray03 {
 					count++;
 				}
 				
-			}
-				
+			}	
 			System.out.println(count);
 		}
 

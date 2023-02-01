@@ -18,7 +18,6 @@ public class BaekArray01 {
 		         if(min>num[i]) {
 		             min = num[i];
 		         }        
-		
 	          }
 		    System.out.println(min);	
 			System.out.println(max);

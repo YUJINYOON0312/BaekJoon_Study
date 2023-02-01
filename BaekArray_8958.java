@@ -22,8 +22,7 @@ public class BaekArray_8958 {
 				else{count=0;}
 
 			}
-			System.out.println(sum);
-			
+			System.out.println(sum);			
 		}
 
 	}

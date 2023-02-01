@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BackSort_2750 {
+public class BaekSort_2750 {
 
 	public static void main(String[] args) {
 		

@@ -15,7 +15,6 @@ public class BaekArray02 {
 				no = i+1; // 0부터 시작하므로 순서는 +1
 			}
 		}
-		
 		System.out.println(max);
 		System.out.println(no);
 	}

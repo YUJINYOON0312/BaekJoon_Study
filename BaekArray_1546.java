@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BackArray_1546  {
+public class BaekArray_1546  {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

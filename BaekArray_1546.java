@@ -25,6 +25,5 @@ public class BaekArray_1546  {
         avg = 100.0 *sum/max/n;
         System.out.println(avg);
 
-
     }
 }

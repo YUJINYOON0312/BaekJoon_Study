@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class BackIf_2480{
+public class BaekIf_2480{
     public static void main(String[] args){
        
         Scanner sc = new Scanner(System.in);

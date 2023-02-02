@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BackMath01_1712 {
+public class BaekMath01_1712 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

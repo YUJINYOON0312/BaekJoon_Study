@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class BackIf_14681 {
+public class BaekIf_14681 {
 
 	
 	public static void main(String[] args){

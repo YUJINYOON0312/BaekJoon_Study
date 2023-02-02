@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BackIf02 {
+public class BaekIf02 {
 
 	public static void main(String[] args) {
 	    Scanner in = new Scanner(System.in);

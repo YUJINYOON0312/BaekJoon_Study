@@ -1,5 +1,5 @@
 
-public class BackMethod_15596 {
+public class BaekMethod_15596 {
 	
 	static long sum(int[] a) {
 		long ans=0;
